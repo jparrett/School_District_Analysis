@@ -67,9 +67,9 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 
   - Scores by school spending - There were no changes in the scores by school spending.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
 
-<img src="/Resources/New_SchoolSpending.png" height="400"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
+<img src="/Resources/New_SchoolSpending.png" width="600"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
 
-<img src="/Resources/Original_SchoolSpending.png" height="400"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
+<img src="/Resources/Original_SchoolSpending.png" width="600"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
 
   - Scores by school size
   
