@@ -59,11 +59,11 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 
 <img src="/Resources/New_MathbyGrade.png" height="400"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
 
-<img src="/Original_MathbyGrade.png" height="400"> [Original_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
+<img src="/Resources/Original_MathbyGrade.png" height="400"> [Original_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
 
 <img src="/Resources/New_ReadingbyGrade.png" height="400"> [New_ReadingbyGrade.png](/Resources/New_ReadingbyGrade.png)
 
-<img src="/Original_ReadingbyGrade.png" height="400"> [Original_ReadingbyGrade.png](/Resources/Original_ReadingbyGrade.png)
+<img src="/Resources/Original_ReadingbyGrade.png" height="400"> [Original_ReadingbyGrade.png](/Resources/Original_ReadingbyGrade.png)
 
   - Scores by school spending - There were no changes in the scores by school spending.   The effect of elimininating the 9th grade students from Thomas High School was less than .01%.
 
