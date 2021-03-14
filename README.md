@@ -6,6 +6,18 @@ The purpose of this project is to agregate school and student data again to reca
 
 ## Results: 
 - **How is the district summary affected?**
+In the summary for the district, the students in 9th grade for Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district. 
+
+After removing the students, the district summary saw the following changes:
+
+- .1% decrease in average math score
+- Zero change in average reading score
+- .2% decrease in percent passing math
+- .3% decrease in percent passing reading
+- .1% decrease in overall passing percentage
+
+![image](https://user-images.githubusercontent.com/78219007/111077217-196e9280-84c6-11eb-8b1d-b7b84d9f3f30.png)
+
 
 <img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png](/Resources/New_DistrictSummary.png)
 
