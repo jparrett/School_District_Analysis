@@ -12,18 +12,34 @@ How is the district summary affected?
 <img src="/Resources/Original_DistrictSummary.png" width="600"> [Original_DistrictSummary.png](/Resources/Original_DistrictSummary.png)
 
 
-
-
 How is the school summary affected?
 
+<img src="/Resources/New_PerSchool.png" width="600"> [New_PerSchool.png](/Resources/New_PerSchool.png)
+
+<img src="/Resources/Original_PerSchool.png" width="600"> [Original_PerSchool.png](/Resources/Original_PerSchool.png)
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth-grade scores affect the following:
+
+
 Math and reading scores by grade
 Scores by school spending
+
+<img src="/Resources/New_SchoolSpending.png" width="600"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
+
+<img src="/Resources/Original_SchoolSpending.png" width="600"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
+
 Scores by school size
+<img src="/Resources/New_SchoolSize.png" width="600"> [New_SchoolSize.png](/Resources/New_SchoolSize.png)
+
+<img src="/Resources/Original_SchoolSize.png" width="600"> [Original_PerSchool.png](/Resources/Original_SchoolSize.png)
+
 Scores by school type
+
+<img src="/Resources/New_SchoolType.png" width="600"> [New_SchoolType.png](/Resources/New_SchoolType.png)
+
+<img src="/Resources/Original_SchoolType.png" width="600"> [Original_SchoolType.png](/Resources/Original_SchoolType.png)
  
 
 
