@@ -17,8 +17,6 @@ After removing the students, the district summary saw the following changes:
  - .3% decrease in percent passing reading
  - .1% decrease in percent overall passing
 
-![image](https://user-images.githubusercontent.com/78219007/111077217-196e9280-84c6-11eb-8b1d-b7b84d9f3f30.png)
-
 
 <img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png](/Resources/New_DistrictSummary.png)
 
