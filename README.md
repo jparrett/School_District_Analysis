@@ -55,29 +55,28 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 
 - **How does replacing the ninth-grade scores affect the following:**
 
-  - Math and reading scores by grade
+  - Math and reading scores by grade - For Thomas High School, the charts are now update to have a "NaN" value for all 9th grade scores.
 
+<img src="/Resources/New_MathbyGrade.png" height="400"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
 
-<img src="/Resources/New_MathbyGrade.png" height="600"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
+<img src="/Original_MathbyGrade.png" height="400"> [Original_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
 
-<img src="/Original_MathbyGrade.png" width="600"> [Original_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
+<img src="/Resources/New_ReadingbyGrade.png" height="400"> [New_ReadingbyGrade.png](/Resources/New_ReadingbyGrade.png)
 
-<img src="/Resources/New_ReadingbyGrade.png" width="600"> [New_ReadingbyGrade.png](/Resources/New_ReadingbyGrade.png)
+<img src="/Original_ReadingbyGrade.png" height="400"> [OOriginal_ReadingbyGrade.png](/Resources/Original_ReadingbyGrade.png)
 
-<img src="/Original_ReadingbyGrade.png" width="600"> [OOriginal_ReadingbyGrade.png](/Resources/Original_ReadingbyGrade.png)
+  - Scores by school spending - There were no changes in the scores by school spending.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
 
-Scores by school spending
+<img src="/Resources/New_SchoolSpending.png" height="400"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
 
-<img src="/Resources/New_SchoolSpending.png" width="600"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
-
-<img src="/Resources/Original_SchoolSpending.png" width="600"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
+<img src="/Resources/Original_SchoolSpending.png" height="400"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
 
   - Scores by school size
 <img src="/Resources/New_SchoolSize.png" width="600"> [New_SchoolSize.png](/Resources/New_SchoolSize.png)
 
 <img src="/Resources/Original_SchoolSize.png" width="600"> [Original_PerSchool.png](/Resources/Original_SchoolSize.png)
 
-  - Scores by school type
+  - Scores by school type - There were no changes in the scores by school type.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
 
 <img src="/Resources/New_SchoolType.png" width="600"> [New_SchoolType.png](/Resources/New_SchoolType.png)
 
