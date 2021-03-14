@@ -93,4 +93,4 @@ Summarize four major changes in the updated school district analysis after readi
 - Thomas High School's overall passing percentage decreased by .318% 
 - The 9th grade scores in the school data are now NaNs
 
-After completing this analysi
+After completing this analysis, it has been determined that removing teh 461 9th grade students from the analysis had no significant changes on the district information.    
