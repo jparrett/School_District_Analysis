@@ -7,10 +7,9 @@ The purpose of this project is to agregate school and student data again to reca
 ## Results: 
 How is the district summary affected?
 
-<img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png]
-(/Resources/New_DistrictSummary.png)
-<img src="/Resources/Original_DistrictSummary.png" width="600"> [Original_DistrictSummary.png]
-(/Resources/Original_DistrictSummary.png)
+<img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png](/Resources/New_DistrictSummary.png)
+
+<img src="/Resources/Original_DistrictSummary.png" width="600"> [Original_DistrictSummary.png](/Resources/Original_DistrictSummary.png)
 
 
 
