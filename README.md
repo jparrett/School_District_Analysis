@@ -65,19 +65,19 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 
 <img src="/Original_ReadingbyGrade.png" height="400"> [Original_ReadingbyGrade.png](/Resources/Original_ReadingbyGrade.png)
 
-  - Scores by school spending - There were no changes in the scores by school spending.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
+  - Scores by school spending - There were no changes in the scores by school spending.   The effect of elimininating the 9th grade students from Thomas High School was less than .01%.
 
 <img src="/Resources/New_SchoolSpending.png" width="600"> [New_SchoolSpending.png](/Resources/New_SchoolSpending.png)
 
 <img src="/Resources/Original_SchoolSpending.png" width="600"> [Original_SchoolSpending.png](/Resources/Original_SchoolSpending.png)
 
-  - Scores by school size - There were no changes in the scores by school spending.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
+  - Scores by school size - There were no changes in the scores by school spending.   The effect of elimininating the 9th grade students from Thomas High School was less than .01%.
   
 <img src="/Resources/New_SchoolSize.png" width="600"> [New_SchoolSize.png](/Resources/New_SchoolSize.png)
 
 <img src="/Resources/Original_SchoolSize.png" width="600"> [Original_PerSchool.png](/Resources/Original_SchoolSize.png)
 
-  - Scores by school type - There were no changes in the scores by school type.   This is most likely due to the minimal effect that eliminating the 9th grade students from Thomas High School had overall.
+  - Scores by school type - There were no changes in the scores by school type.   The effect of elimininating the 9th grade students from Thomas High School was less than .01%.
 
 <img src="/Resources/New_SchoolType.png" width="600"> [New_SchoolType.png](/Resources/New_SchoolType.png)
 
@@ -93,4 +93,4 @@ Summarize four major changes in the updated school district analysis after readi
 - Thomas High School's overall passing percentage decreased by .318% 
 - The 9th grade scores in the school data are now NaNs
 
-After completing this analysis, it has been determined that removing teh 461 9th grade students from the analysis had no significant changes on the district information.    
+After completing this analysis, it has been determined that removing teh 461 9th grade students from the analysis had no significant changes on the district information.   
