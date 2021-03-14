@@ -6,6 +6,13 @@ The purpose of this project is to agregate school and student data again to reca
 
 ## Results: 
 How is the district summary affected?
+
+<img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png](/Resources/New_DistrictSummary.png)
+<img src="/Resources/original_DistrictSummary.png" width="600"> [Original_DistrictSummary.png](/Resources/Original_DistrictSummary.png)
+
+
+
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
