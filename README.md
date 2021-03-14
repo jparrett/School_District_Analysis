@@ -48,7 +48,7 @@ In the summary per school, the school data for Thomas High School has been adjus
 
 <img src="/Resources/Original_PerSchool.png" width="600"> [Original_PerSchool.png](/Resources/Original_PerSchool.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 Although the percentages for Thomas High School dropped slightly, the drop was not enough to effect their performance in relation to the other schools.    They continue to be one of the top performing schools for the district.
 
@@ -56,6 +56,8 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 - **How does replacing the ninth-grade scores affect the following:**
 
   - Math and reading scores by grade
+
+
 <img src="/Resources/New_MathbyGrade.png" width="600"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
 
 <img src="/Original_MathbyGrade.png" width="600"> [OOriginal_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
