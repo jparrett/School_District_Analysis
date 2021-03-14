@@ -2,7 +2,7 @@
 Module 4:  Pandas and Jupyter Notebook
 
 ## Overview of Project
-The purpose of this project is to agregate school and student data again to recacluate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
+The purpose of this project is to agregate school and student data  to recacluate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
 
 Data Source:
 
@@ -88,5 +88,9 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 - The district saw a .3% decrease in percent of students passing reading
+- The distric saw a .2% decrease in percent of students passing math
 - Thomas High School's reading percentage decreased by .290%
 - Thomas High School's overall passing percentage decreased by .318% 
+- The 9th grade scores in the school data are now NaNs
+
+After completing this analysi
