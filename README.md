@@ -18,7 +18,7 @@ Numpy 1.18.1
 ## Results: 
 - **How is the district summary affected?**
 
-In the summary for the district, the student scores for 9th graders at Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district.    She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+In the summary for the district, the student scores for 9th graders at Thomas High School were not included.  Therefore, the total student count was decreased in our formulas to account for this change.   The exclusion of these students altered the averages and percentages for the district.    Maria has asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
 
 After removing the students, the district summary saw the following changes:
 
@@ -36,10 +36,10 @@ After removing the students, the district summary saw the following changes:
 
 - **How is the school summary affected?**
 
-In the summary per school, the school data for Thomas High School has been adjusted.   After removing the students, Thomas High School data saw the following changes:
+In the summary per school, the school data for Thomas High School has been adjusted.   After removing the students in the formulas for Thomas High School, the data reflected the following changes:
 
  - .067 decrease in average math score
- - .047 decrease in average reading score
+ - .047 increase in average reading score
  - .086 decrease in passing math percentage
  - .290 decrease in passing reading percentage
  - .318 decrease in overall passing percentage
@@ -50,12 +50,12 @@ In the summary per school, the school data for Thomas High School has been adjus
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-Although the percentages for Thomas High School dropped slightly, the drop was not enough to effect their performance in relation to the other schools.    They continue to be one of the top performing schools for the district.
+Although the percentages for Thomas High School dropped slightly, the drop was not enough to affect their performance in relation to the other schools.    They continue to be one of the top performing schools for the district.
 
 
 - **How does replacing the ninth-grade scores affect the following:**
 
-  - Math and reading scores by grade - For Thomas High School, the charts are now update to have a "NaN" value for all 9th grade scores.
+  - Math and reading scores by grade - For Thomas High School, the charts are now updated to have a "NaN" value for all 9th grade scores.
 
 <img src="/Resources/New_MathbyGrade.png" height="400"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
 
