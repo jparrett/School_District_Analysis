@@ -5,7 +5,7 @@ Module 4:  Pandas and Jupyter Notebook
 The purpose of this project is to agregate school and student data again to recacluate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
 
 ## Results: 
-How is the district summary affected?
+-**How is the district summary affected?**
 
 <img src="/Resources/New_DistrictSummary.png" width="600"> [New_DistrictSummary.png](/Resources/New_DistrictSummary.png)
 
