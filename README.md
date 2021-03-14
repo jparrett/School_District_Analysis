@@ -2,7 +2,7 @@
 Module 4:  Pandas and Jupyter Notebook
 
 ## Overview of Project
-The purpose of this project is to agregate school and student data  to recacluate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
+The purpose of this project is to aggregate school and student data and recalculate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
 
 Data Source:
 
@@ -18,7 +18,7 @@ Numpy 1.18.1
 ## Results: 
 - **How is the district summary affected?**
 
-In the summary for the district, the students in 9th grade for Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district.    She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+In the summary for the district, the student scores for 9th graders at Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district.    She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
 
 After removing the students, the district summary saw the following changes:
 
