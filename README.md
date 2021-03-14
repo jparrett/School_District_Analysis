@@ -4,10 +4,21 @@ Module 4:  Pandas and Jupyter Notebook
 ## Overview of Project
 The purpose of this project is to agregate school and student data again to recacluate after the removal of Thomas High School 9th grade scores.   This information will be presented to the school board to provide them with insight on performance trends and patterns in regards to budget and standardized test scores.   The school board will use the information provided to make strategic decisions at the school and district level in regards to student funding, school budgets and priorities.   
 
+Data Source:
+
+schools_complete.csv
+students_complete.csv
+
+Software:
+Pyton 3.7.6
+Jupyter Notebook 6.0.3
+Pandas 1.0.1
+Numpy 1.18.1
+
 ## Results: 
 - **How is the district summary affected?**
 
-In the summary for the district, the students in 9th grade for Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district. 
+In the summary for the district, the students in 9th grade for Thomas High School were not included.    Therefore, the total student count was decreased to account for this change.   The exclusion of these students altered the averages and percentages for the district.    She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
 
 After removing the students, the district summary saw the following changes:
 
@@ -23,7 +34,11 @@ After removing the students, the district summary saw the following changes:
 <img src="/Resources/Original_DistrictSummary.png" width="600"> [Original_DistrictSummary.png](/Resources/Original_DistrictSummary.png)
 
 
-How is the school summary affected?
+- **How is the school summary affected?**
+
+In the summary per school, the school data for Thomas High School has been adjusted.   After removing the students, Thomas High School data saw the following changes:
+
+ - 
 
 <img src="/Resources/New_PerSchool.png" width="600"> [New_PerSchool.png](/Resources/New_PerSchool.png)
 
