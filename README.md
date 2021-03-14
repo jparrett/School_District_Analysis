@@ -58,9 +58,9 @@ Although the percentages for Thomas High School dropped slightly, the drop was n
   - Math and reading scores by grade
 
 
-<img src="/Resources/New_MathbyGrade.png" width="600"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
+<img src="/Resources/New_MathbyGrade.png" height="600"> [New_MathbyGrade.png](/Resources/New_MathbyGrade.png)
 
-<img src="/Original_MathbyGrade.png" width="600"> [OOriginal_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
+<img src="/Original_MathbyGrade.png" width="600"> [Original_MathbyGrade.png](/Resources/Original_MathbyGrade.png)
 
 <img src="/Resources/New_ReadingbyGrade.png" width="600"> [New_ReadingbyGrade.png](/Resources/New_ReadingbyGrade.png)
 
